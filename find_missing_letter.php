@@ -12,5 +12,5 @@ function find_missing_letter(array $array): string {
 }
 
 var_dump(
-	find_missing_letter(array('A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Z'))
+	find_missing_letter(array('A','B','C', 'F'))
 );

@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * Is Prime?
+ *
+ * @param integer
+ * @return boolean
+ */
 function is_prime($n): bool {
 	if (is_infinite($n) || is_nan($n) || $n%1 || $n <= 1) return false;
 	if ($n%2 == 0) return ($n==2);
