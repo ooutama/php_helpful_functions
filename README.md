@@ -1,6 +1,6 @@
 # PHP Helpful functions
 
->This repository contains some helpful functions that my help you in your projects.
+>This repository contains some helpful functions that may help you in your projects.
 
 ## Available functions
 
